@@ -2,7 +2,7 @@
 
 Master's student in Computer Science
 
-**Portfolio Website: ** https://portfolio-website-2v0x.onrender.com/
+**Portfolio Website:** https://portfolio-website-2v0x.onrender.com/
 
 ## Tech Stack
 - **Frontend:** React, Chakra UI, TailwindCSS, JavaFX

@@ -1,6 +1,14 @@
-- 👋 Hi, I’m @AlberthMartin
-- My PORTFOLIO WEBSITE: https://portfolio-website-2v0x.onrender.com/
-- I'm a Master Computer Science student.
+# 👋 Hi, I’m @AlberthMartin
+
+Master's student in Computer Science
+
+**Portfolio Website: ** https://portfolio-website-2v0x.onrender.com/
+
+## Tech Stack
+- **Frontend:** React, Chakra UI, TailwindCSS, JavaFX
+- **Backend:** Node.js, Express, Java  
+- **Database:** MongoDB  
+- **Other** GitHub, Postman, JWT, Render, Scenebuilder, Home Assistant, YAML Automations, Requirement Engineering, Human Computer Interaction, Software Engineering, Team/Client Collaboration
 <!---
 AlberthMartin/AlberthMartin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

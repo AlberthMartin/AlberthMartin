@@ -6,9 +6,9 @@ Master's student in Computer Engineering
 
 ## Tech Stack
 - **Frontend:** React, Chakra UI, TailwindCSS, JavaFX
-- **Backend:** Node.js, Express, Java, basic Python  
+- **Backend:** Node.js, Express, Java, Spring Boot 
 - **Database:** MongoDB, MySQL
-- **Other:** GitHub, Spring Boot, Postman, JWT, Render, Scenebuilder, Home Assistant, YAML Automations, Requirement Engineering, Human Computer Interaction, Software Engineering, Team/Client Collaboration
+- **Other:** GitHub, Postman, JWT, Render, Scenebuilder, Requirement Engineering, Human Computer Interaction, Software Engineering, Team/Client Collaboration
 
 ## Languages
 - **Swedish** (native/fluent)  

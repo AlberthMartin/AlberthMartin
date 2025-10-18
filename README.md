@@ -31,6 +31,7 @@
 - Requirement Engineering
 - Team/Client Collaboration
 - Web Development
+- Software Engineering
 
 ## Languages
 - **Swedish** (native/fluent)  

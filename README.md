@@ -10,13 +10,16 @@
 -  Chakra UI
 -  TailwindCSS
 -  JavaFX (Scenebuilder)
+
 **Backend:**
 - Node.js & Express
 - Java (Spring Boot, Spring Web, Spring Security, Lombok)
 -  JWT (Authentication)
+
 **Database:**
 - MongoDB
 - MySQL
+
 **Tools & Other:**
 - GitHub (Version control)
 - Postman (API Testing)

@@ -5,10 +5,29 @@
 **Portfolio Website:** https://portfolio-website-2v0x.onrender.com/
 
 ## Tech Stack
-- **Frontend:** React, Chakra UI, TailwindCSS, JavaFX
-- **Backend:** Node.js, Express, Java, Spring Boot, Spring Security, JWT
-- **Database:** MongoDB, MySQL
-- **Other:** GitHub, Postman, Render, Scenebuilder, Requirement Engineering, Software Engineering, Team/Client Collaboration
+**Frontend:**
+-  React
+-  Chakra UI
+-  TailwindCSS
+-  JavaFX (Scenebuilder)
+**Backend:**
+- Node.js & Express
+- Java (Spring Boot, Spring Web, Spring Security, Lombok)
+-  JWT (Authentication)
+**Database:**
+- MongoDB
+- MySQL
+**Tools & Other:**
+- GitHub (Version control)
+- Postman (API Testing)
+- Render (Hosting)
+- AWS (Cloud Services)
+
+## Skills
+- Fullstack Development
+- Requirement Engineering
+- Team/Client Collaboration
+- Web Development
 
 ## Languages
 - **Swedish** (native/fluent)  

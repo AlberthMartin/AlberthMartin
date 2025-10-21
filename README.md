@@ -9,24 +9,25 @@
 -  React
 -  Chakra UI
 -  TailwindCSS
--  JavaFX (Scenebuilder)
+-  Zustand (State management)
 
 **Backend:**
 - Node.js & Express
 - Java (Spring Boot, Spring Web, Spring Security, Lombok)
--  JWT (Authentication)
+- JWT (Authentication)
 
 **Database:**
 - MongoDB
-- MySQL
+- MySQL 
 
 **Tools & Other:**
-- GitHub (Version control)
+- GitHub/Git (Version control)
 - Postman (API Testing)
 - Render (Hosting)
-- AWS (Cloud Services)
+- AWS (EC2, ELB, S3, Basic Cloud Security)
 
 ## Skills
+- REST API
 - Fullstack Development
 - Requirement Engineering
 - Team/Client Collaboration

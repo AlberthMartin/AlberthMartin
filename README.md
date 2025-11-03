@@ -6,14 +6,14 @@ I’m a Master’s student in Computer Engineering, developing full-stack web ap
 
 
 ### 🧰 Currently Working on:
-- [CV Builder](https://github.com/AlberthMartin/cv-builder), CV Builder Full Stack Web App, Create a professional, ATS-friendly resume with this intuitive CV builder. Real-time preview, instant PDF export, and beautiful formatting. **(Java Spring Boot, MongoDB, React.js)**
-- [Private Parking App Startup](https://github.com/AlberthMartin/Parking-Group-Project),  I'm building the backend with **Java Spring Boot** and **MySQL**.
+- [CV Builder](https://github.com/AlberthMartin/cv-builder), Full-stack web app for creating professional, ATS-friendly resumes. Features real-time preview, instant PDF export, and modern formatting.**(Java Spring Boot, MongoDB, React.js)**
+- [Private Parking App Startup](https://github.com/AlberthMartin/Parking-Group-Project), Building the backend for a private parking platform, handling user authentication, parking management, booking management, and database integration. **Java Spring Boot** and **MySQL**.
 
 ---
 
 ### ✅ Recently Built: 
-- [Training Management System](https://github.com/AlberthMartin/TrainingManagementSystem), a full-stack web app with authentication for managing personalized workouts, logging sessions, and tracking completed workouts and statistics. **(MongoDB, Node.js React.js)**.
-- [E-commerce Backend](https://github.com/AlberthMartin/E-commerceBackend), I built this project to learn the Java Spring Boot and Spring Security frameworks, and to practice building a database with MySQL
+- [Training Management System](https://github.com/AlberthMartin/TrainingManagementSystem), A full-stack web app with authentication for managing personalized workouts, logging sessions, and tracking completed workouts and statistics. **(MongoDB, Node.js React.js)**.
+- [E-commerce Backend](https://github.com/AlberthMartin/E-commerceBackend), Designed and implemented a backend to learn Spring Boot and Spring Security, and practice building a relational database with MySQL.
 
 ---
 

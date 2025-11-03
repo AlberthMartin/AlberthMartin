@@ -1,43 +1,18 @@
 # 👋 Hi, I’m @AlberthMartin
 
-## Master's student in Computer Engineering
+I am a Master's student in Computer Engineering
 
 **Portfolio Website:** https://portfolio-website-2v0x.onrender.com/
 
 ## Tech Stack
-**Frontend:**
--  React
--  Chakra UI
--  TailwindCSS
--  Zustand (State management)
+- **Frontend:** React.js, Chakra UI, TailwindCSS, TypeScript
+- **Backend:** Node.js, Express, Java (Spring Boot, Spring Web, Spring Security, Spring JPA), JWT (authentication)
+- **Database:** MongoDB, MySQL
+- **Tools & Other:** GitHub/Git, Postman (API Testing), Render, AWS, IntelliJ IDEA, VS Code
 
-**Backend:**
-- Node.js & Express
-- Java (Spring Boot, Spring Web, Spring Security, Lombok)
-- JWT (Authentication)
-
-**Database:**
-- MongoDB
-- MySQL 
-
-**Tools & Other:**
-- GitHub/Git (Version control)
-- Postman (API Testing)
-- Render (Hosting)
-- AWS (EC2, ELB, S3, Basic Cloud Security)
-
-## Skills
-- REST API
-- Fullstack Development
-- Requirement Engineering
-- Team/Client Collaboration
-- Web Development
-- Software Engineering
-
-## Languages
-- **Swedish** (native/fluent)  
-- **English** (fluent)  
-- **Finnish** (basic/conversational)
+## Skills: 
+- Full-stack Development, Web Development, Software Engineering, Team collaboration, requirements engineering, Client Collaboration
+- Languages: **Swedish** (native/fluent), **English** (fluent), **Finnish** (basic/conversational)
 
 
 

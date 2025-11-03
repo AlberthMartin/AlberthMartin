@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @AlberthMartin
 
-I am a Master's student in Computer Engineering
+I’m a Master’s student in Computer Engineering, developing full-stack web applications and studying **scalable software systems**, **software engineering** and **cybersecurity**.
 
 **Portfolio Website:** https://portfolio-website-2v0x.onrender.com/
 

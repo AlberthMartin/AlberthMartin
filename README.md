@@ -24,10 +24,23 @@ I’m a Master’s student in Computer Engineering, developing full-stack web ap
 - **Database:** MongoDB, MySQL
 - **Tools & Other:** Git, Postman (API Testing), Render, AWS, IntelliJ IDEA, VS Code
 ---
-### 🧩 Skills: 
-- **Technical:** MERN Full-stack development, RESTful APIs, JWT & Spring Security Authentication, Database modeling with MySQL and MongoDB, Spring Boot Backend architecture, Spring Boot + React full-stack development
-- **Collaboration:** Teamwork from group projects, Requirements engineering (University), Builing software solutions for clients, Technical documentation in Github.
-- **Languages:** 🇸🇪**Swedish** (native/fluent), 🇬🇧**English** (fluent), 🇫🇮 **Finnish** (basic/conversational)
+## 🧩 Skills: 
+### **Technical:**
+- MERN Full-stack development
+- Java Spring Boot + React.js Full-stack development
+- RESTful APIs
+- JWT & Spring Security Authentication
+- Database modeling with MySQL and MongoDB
+- Spring Boot Backend architecture
+### **Collaboration:**
+- Teamwork from group projects
+-  Requirements engineering (University)
+-  Builing software solutions for clients
+-  Technical documentation in Github.
+### **Languages:**
+- 🇸🇪**Swedish** (native/fluent)
+- 🇬🇧**English** (fluent)
+- 🇫🇮**Finnish** (basic/conversational)
 
 
 

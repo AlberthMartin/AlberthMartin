@@ -13,7 +13,7 @@ I’m a Master’s student in Computer Engineering, developing full-stack web ap
 
 ### ✅ Recently Built: 
 - [Training Management System](https://github.com/AlberthMartin/TrainingManagementSystem), A full-stack web app with authentication for managing personalized workouts, logging sessions, and tracking completed workouts and statistics. **(MongoDB, Node.js React.js)**.
-- [E-commerce Backend](https://github.com/AlberthMartin/E-commerceBackend), Designed and implemented a backend to learn Spring Boot and Spring Security, and practice building a relational database with MySQL.
+- [E-commerce Backend](https://github.com/AlberthMartin/E-commerceBackend), built with **Java Spring Boot, MySQL, Spring Security & JWT**. I built this project to deepen my understanding of how to develop a professional backend using Java Spring Boot.
 
 ---
 
@@ -24,8 +24,8 @@ I’m a Master’s student in Computer Engineering, developing full-stack web ap
 - **Tools & Other:** Git, Postman (API Testing), Render, AWS, IntelliJ IDEA, VS Code
 ---
 ### 🧩 Skills: 
-- **Technical:** Full-stack development · RESTful API design · Authentication · Database modeling · Software architecture
-- **Collaboration:** Teamwork, Requirements engineering, Client communication
+- **Technical:** MERN Full-stack development, RESTful APIs, JWT & Spring Security Authentication, Database modeling with MySQL and MongoDB, Spring Boot Backend architecture, Spring Boot + React full-stack development
+- **Collaboration:** Teamwork from group projects, Requirements engineering (University), Builing software solutions for clients, Technical documentation in Github.
 - **Languages:** 🇸🇪**Swedish** (native/fluent), 🇬🇧**English** (fluent), 🇫🇮 **Finnish** (basic/conversational)
 
 

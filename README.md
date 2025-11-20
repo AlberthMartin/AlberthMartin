@@ -8,7 +8,6 @@ I’m a Master’s student in Computer Engineering, developing full-stack web ap
 ### 🧰 Currently Working on:
 - [Private Parking App Startup](https://github.com/AlberthMartin/Parking-Group-Project), Building the backend for a private parking platform, handling user authentication, parking management, booking management, and database integration. **Java Spring Boot** and **MySQL**.
 - Software Engineering courses at University
-- Cyber Security, **Helsingin yliopisto Mooc**
 ---
 
 ### ✅ Recently Built: 

@@ -7,7 +7,7 @@ I’m a Master’s student in Computer Engineering, developing full-stack web ap
 
 ### 🧰 Currently Working on:
 - Software Engineering courses at University
-- Data Analysis in manufacturing
+- Data Analysis in manufacturing projects
 - [Private Parking App Startup](https://github.com/AlberthMartin/Parking-Group-Project), Building the backend for a private parking platform, handling user authentication, parking management, booking management, and database integration. **Java Spring Boot** and **MySQL**.
 ---
 

@@ -6,7 +6,7 @@ I’m a Master’s student in Computer Engineering, developing full-stack web ap
 
 
 ### 🧰 Currently Working on:
-- **Wärtsilä Factory Pulse project**: 3.3 M station events analysed and put into a  dashboard **SQL, Python**
+- **Wärtsilä Factory Pulse project**: 3.3 M station events analysed and put into a  dashboard **SQL, Python** (Private)
 -  Masters courses: Software Quality, Software Security, Cloud Computing **AWS**
 - [Private Parking App Startup](https://github.com/AlberthMartin/Parking-Group-Project), Building the backend for a private parking platform, handling user authentication, parking management, booking management, and database integration. **Java Spring Boot** and **MySQL**.
 ---
